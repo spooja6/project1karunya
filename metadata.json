@@ -1,0 +1,6 @@
+{
+  "name": "PulseML: Health Risk Predictor",
+  "description": "A machine learning application for health risk assessment using scikit-learn. Includes Python source for training/serving and a React dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
